@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1537751917 source:d:\codeblocks file\project com ed0 80%\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
